@@ -2,7 +2,7 @@
 
 I am a novice developer who learns and discovers constantly 🤩
 
-I am currently studying at the IIM in Web Dev, in Paris 🥖 
+I am currently studying at the IIM in Web Dev, in Paris 🥖☕
 
 <img src="https://user-images.githubusercontent.com/90460073/133886293-3da8d790-a1cf-4c6e-87b5-de5efe038abd.png" alt="drawing" width="100"/>
 
